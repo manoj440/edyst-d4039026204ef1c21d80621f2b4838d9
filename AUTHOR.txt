@@ -1,0 +1,3 @@
+# Details
+- author: saim6216@gmail.com
+- role: STUDENT
